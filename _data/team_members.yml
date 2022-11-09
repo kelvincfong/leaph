@@ -1,0 +1,26 @@
+- name: Kelvin Fong
+  photo: kelvin.jpg
+  info: Assistant Professor
+  email: kelvin.fong@dal.ca
+  number_educ: 4
+  education1: ScD, Environmental Health and Epidemiology, Harvard University, with <a href="https://www.hsph.harvard.edu/joel-schwartz/">Joel Schwartz</a>
+  education2: PostDoc, Yale School of the Environment, with <a href="https://bell-lab.yale.edu/">Michelle Bell</a>
+  education3: Elizabeth May Chair in Sustainability and Environmental Health
+  education4: <a href="https://kelvinfong.ca/">Personal Website</a>
+
+- name: Alex Del Favero-Campbell
+  photo: alex.jpg
+  info: PhD Student
+  email: Alexandra.DFC@dal.ca
+  number_educ: 3
+  education1: Focusing on environmental influences on mental health outcomes
+  education2: MSc, University of Hohenheim; MSc, University of Queensland
+  education3: BSc, Purdue University
+
+- name: Aline Maybank
+  photo: aline.png
+  info: Honours BSc Student
+  email: Aline.Maybank@dal.ca
+  number_educ: 2
+  education1: Focusing on ambient air pollution disparities and respiratory outcomes
+  education2: <a href="https://www.fulbright.ca/programs/killam-fellowships">Killam Fellowship</a> alumna, University of Washington
