@@ -8,7 +8,7 @@ permalink: /
 
 **We are the Laboratory for Environmental Assessment and Population Health (LEAPH)**
 
-We aim to understand how our environment affects our health and well-being. To do this, we specialize in 1) environmental assessment and 2) epidemiology. 
+We aim to understand how the environment affects our health and well-being. To do this, we specialize in 1) environmental assessment and 2) epidemiology. 
 
 <center>
 <figure class="fourth">
@@ -16,7 +16,7 @@ We aim to understand how our environment affects our health and well-being. To d
 </figure>
 </center>
   
-For exposure assessment, we apply satellite remote sensing to assess consequential exposures such as air pollution, extreme temperatures, and access to green space. We also  
+For exposure assessment, we apply satellite remote sensing to assess consequential exposures such as air pollution, extreme temperatures, and access to green space. We also operate monitoring equipment.
 
 In population health analyses, we apply epidemiologic methods to estimate the effects of environmental exposures on health outcomes. We are especially interested in quantifying environmental health disparities and investigating strategies to advance environmental justice and health equity.
 
@@ -26,6 +26,7 @@ We are based in the [Department of Earth and Environmental Sciences](https://www
 
 *Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.*
 
+<br>
 <center>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo1.png" style="height: 100px">
@@ -33,3 +34,5 @@ We are based in the [Department of Earth and Environmental Sciences](https://www
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dal.png" style="height: 100px">
 </figure>
 </center>
+<br>
+<br>
