@@ -8,7 +8,7 @@ permalink: /
 
 <center>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo1.png" style="height: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo1.png" style="height: 150px">
 </figure>
 </center>
 <br>
