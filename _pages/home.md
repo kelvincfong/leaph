@@ -21,7 +21,7 @@ For more details, see the [Research](research) page.
 
 <center>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/isee2022.png" style="width: 350px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BanqUpl.jpg" style="width: 350px">
 </figure>
 </center>
 
