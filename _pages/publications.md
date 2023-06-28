@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Selected Publications
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
