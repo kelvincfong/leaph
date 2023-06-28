@@ -30,26 +30,4 @@
     display: Epidemiology 2019, 30(5): 617-623.
   highlight: 1
 
-- title: "Relative Toxicities of Major Particulate Matter Constituents on Birthweight in Massachusetts"
-  description: Do some PM2.5 components affect fetal growth more than others?
-  authors: Fong KC, Di Q, Kosheleva A, Coull BA, Koutrakis P, Laden F, Schwartz JD
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/31342007
-    display: Environmental Epidemiology 2019, 3(3): e047.
-  highlight: 1
-  
-- title: "Residential Greenness and Birthweight in the State of Massachusetts, USA"
-  description: Does maternal residential greenness affect fetal growth? 
-  authors: Fong KC, Kloog I, Coull BA, Koutrakis P, Laden F, Schwartz JD, James P
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29895795
-    display: Int. J. Environ. Res. Public Health, 2018, 15(6): 1248.
-  highlight: 1
-  
-- title: "A Review of Epidemiologic Studies on Greenness and Health: Updated Literature Through 2017"
-  description: Do some PM2.5 components affect fetal growth more than others?
-  authors: Fong KC, Hart JE, James P
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29392643
-    display: Curr Environ Health Rep, 2018, 5(1): 77-87.
-  highlight: 1
+
