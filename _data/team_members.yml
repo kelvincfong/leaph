@@ -18,17 +18,17 @@
   education3: BSc, Purdue University
   education4: Recipient of the <a href="https://researchns.ca/2023/07/11/research-nova-scotia-announces-960000-for-student-health-researchers/">Scotia Scholar Doctoral Award</a> and the <a href="https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries/vitamin-doctoral.html">Vitamin Scholarship</a>
 
-- name: Aline Maybank
-  photo: aline.png
-  info: Honours BSc Student
-  email: Aline.Maybank@dal.ca
+- name: Tsz Kin Siu
+  photo: tszkin.png
+  info: MSc Student
+  email: ts577891@dal.ca
   number_educ: 2
-  education1: Focusing on ambient air pollution disparities and respiratory outcomes
-  education2: <a href="https://www.fulbright.ca/programs/killam-fellowships">Killam Fellowship</a> alumna, University of Washington
-
+  education1: Focusing on satellite remote sensing of air pollution
+  education2: MDaSc, BSc, The University of Hong Kong
+  
 - name: Ty Martin
   photo: ty.png
-  info: DISP Student
+  info: BSc Student
   email: ty508225@dal.ca
   number_educ: 2
   education1: Focusing on low-cost sensor network deployment and air pollution disparities
