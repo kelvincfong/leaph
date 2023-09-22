@@ -85,7 +85,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
-  <li>{{ member.duration }}</li>
+  <li>{{ member.duration }}
   <ul style="overflow: hidden">
 
   </ul>
@@ -94,12 +94,10 @@ permalink: /team/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
-</div>
 {% endif %}
 
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-</div>
 {% endif %}
