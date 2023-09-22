@@ -89,7 +89,6 @@ permalink: /team/
   <ul style="overflow: hidden">
 
   </ul>
-</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
