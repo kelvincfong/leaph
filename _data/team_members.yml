@@ -33,3 +33,11 @@
   number_educ: 2
   education1: Focusing on low-cost sensor network deployment and air pollution disparities
   education2: Medical Sciences major at Dalhousie University
+  
+- name: Lindsay Redding
+  photo: lindsay.png
+  info: BSc Student
+  email: Lindsay.Redding@dal.ca
+  number_educ: 2
+  education1: Focusing on deploying air quality sensors and analyzing historical air quality data
+  education2: Biology and Environmental Sustainability student at Dalhousie University
