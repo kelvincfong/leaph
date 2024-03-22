@@ -2,21 +2,13 @@
   photo: aline.png
   info: MPH student at Yale University
   duration: Honours BSc Student 2022 - 2023
-  email: Aline.Maybank@dal.ca
-  number_educ: 1
-  education1: BSc, Dalhousie University
 
 - name: Ty Martin
   photo: ty.png
   info: BSc Student at Dalhousie University
-  duration: DISP Student 2022 - 2023
-  email: ty508225@dal.ca
-  number_educ: 1
-  education1: BSc (in progress), Dalhousie University
+  duration: DISP Student Spring 2023
 
 - name: Lindsay Redding
   photo: lindsay.png
-  info: Experiential Learning Student
-  email: Lindsay.Redding@dal.ca
-  number_educ: 1
-  education1: BSc (in progress), Dalhousie University
+  info: BSc Student at Dalhousie University
+  duration: Experiential Learning Student Fall 2023
