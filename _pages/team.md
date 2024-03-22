@@ -69,11 +69,10 @@ permalink: /team/
 </div>
 {% endif %}
 
-
 # Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -86,9 +85,6 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   <li>{{ member.duration }}
-  <ul style="overflow: hidden">
-
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
