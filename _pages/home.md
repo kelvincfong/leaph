@@ -1,7 +1,7 @@
 ---
 title: "LEAPH - Home"
 layout: homelay
-excerpt: "LEAPH at Dalhousie University"
+excerpt: "LEAPH"
 sitemap: false
 permalink: /
 ---
@@ -25,18 +25,16 @@ For more details, see the [Research](research) page.
 </figure>
 </center>
 
-We are based in the [Department of Earth and Environmental Sciences](https://www.dal.ca/faculty/science/earth-environmental-sciences.html) at [Dalhousie University](https://www.dal.ca/).
+We are based in the [Department of Environmental and Occupational Health](https://publichealth.gwu.edu/departments/environmental-and-occupational-health) at [George Washington University Milken Institute School of Public Health](https://publichealth.gwu.edu/). LEAPH was established in 2022 in the [Department of Earth and Environmental Sciences](https://www.dal.ca/faculty/science/earth-environmental-sciences.html) at [Dalhousie University](https://www.dal.ca/).
 
-*Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.*
-
-We are grateful for funding from Research Nova Scotia ([New Health Investigator Grant](https://researchns.ca/2023/01/10/research-nova-scotia-supports-early-career-health-researchers-with-1-22-million-in-funding/)) and Dalhousie University (Vice President of Research and Innovation).
+We are grateful for funding from Research Nova Scotia [New Health Investigator Grant](https://researchns.ca/2023/01/10/research-nova-scotia-supports-early-career-health-researchers-with-1-22-million-in-funding/) and the [Canada First Research Excellence Fund](https://www.ofi.ca/programs/transform-climate-action).
 
 <br>
 <center>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/researchNS.png" style="height: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/HD_transparent_picture.png" style="width: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dal.png" style="height: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gw.png" style="height: 100px">
 </figure>
 </center>
 <br>

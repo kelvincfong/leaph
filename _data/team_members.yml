@@ -1,12 +1,11 @@
 - name: Kelvin Fong
   photo: kelvin.jpg
   info: Assistant Professor
-  email: kelvin.fong@dal.ca
-  number_educ: 4
+  email: kelvin.fong@gwu.edu
+  number_educ: 3
   education1: ScD, Environmental Health and Epidemiology, Harvard University, with <a href="https://www.hsph.harvard.edu/joel-schwartz/">Joel Schwartz</a>
   education2: PostDoc, Yale School of the Environment, with <a href="https://bell-lab.yale.edu/">Michelle Bell</a>
-  education3: Elizabeth May Chair in Sustainability and Environmental Health
-  education4: <a href="https://kelvinfong.ca/">Personal Website</a>
+  education3: <a href="https://kelvinfong.ca/">Personal Website</a>
 
 - name: Alex Del Favero-Campbell
   photo: alex.jpg
@@ -26,18 +25,12 @@
   education1: Focusing on satellite remote sensing of air pollution
   education2: MDaSc, BSc, The University of Hong Kong
   
-- name: Ty Martin
-  photo: ty.png
-  info: BSc Student
-  email: ty508225@dal.ca
-  number_educ: 2
-  education1: Focusing on low-cost sensor network deployment and air pollution disparities
-  education2: Medical Sciences major at Dalhousie University
-  
-- name: Lindsay Redding
-  photo: lindsay.png
-  info: BSc Student
-  email: Lindsay.Redding@dal.ca
-  number_educ: 2
-  education1: Focusing on deploying air quality sensors and analyzing historical air quality data
-  education2: Biology and Environmental Sustainability student at Dalhousie University
+- name: Jessie Cullum
+  photo: jessie.jpeg
+  info: Research Assistant
+  email: js968609@dal.ca
+  number_educ: 3
+  education1: Researching the climate change related health impacts of migrants in coastal communities 
+  education2: MSc Student, Dalhousie University 
+  education3: BSc, Dalhousie University
+ 
