@@ -34,7 +34,7 @@ We are grateful for funding from Research Nova Scotia [New Health Investigator G
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/researchNS.png" style="height: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/HD_transparent_picture.png" style="width: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gw.png" style="height: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gwsph.png" style="height: 100px">
 </figure>
 </center>
 <br>
