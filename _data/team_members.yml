@@ -33,7 +33,42 @@
   education1: Researching the climate change related health impacts of migrants in coastal communities 
   education2: MSc Student, Dalhousie University 
   education3: BSc, Dalhousie University
- 
+
+- name: Ana Chittenden
+  photo: ana.jpg
+  info: Research Assistant
+  email: js968609@dal.ca
+  number_educ: 3
+  education1: Researching health impacts of environmental and climate change related factors
+  education2: MPH Student, George Washington University
+  education3: BSc, University of Georgia
+  
+- name: Ellie
+  photo: ellie.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: Developing data pipelines for understanding health impacts of green spaces and parks
+  education2: BSc Student, George Washington University
+  
+- name: Katy Kane
+  photo: katy.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 3
+  education1: Climate Change, Environmental Toxicology, and how they relate to health disparities
+  education2: MPH Student, George Washington University
+  education3: BSc, George Washington University
+  
+- name: Vaibhav Vemula
+  photo: vaibhav.jpeg
+  info: Research Assistant
+  email: 
+  number_educ: 3
+  education1: Focusing on satellite imagery and GIS for analyzing green spaces and parks
+  education2: MSc Student, George Washington University
+  education3: <a href="https://vaibhavvemula.com">Personal Website</a>
+
 - name: Niyati Shah
   photo: niyati.png
   info: Research Associate
